@@ -382,7 +382,7 @@ body {
 		<div class="container">
 			<div class="nav-on">
 				<ul class="menu">
-					<li class="home"><a href="https://github.com/caimogu">彩蘑菇的Git</a></li>
+					<li class="home"><a href="https://github.com/caimogu">GitHub</a></li>
 					<li class="list"><a href="http://www.ui3g.com/">SourceCode</a></li>
 					<li class="arrow back"><a href="http://www.ui3g.com/">Prev</a></li>
 					<li class="arrow"><a href="http://www.ui3g.com/">Next</a></li>				</ul>
